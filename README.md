@@ -1,7 +1,7 @@
 |                       Command | Description                                                                                                                        |
 | -------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- |
 |                  `welcmsg [msg]` | Sets a welcome message that goes into an embed, for when a member joins                                                          |
-|                  `boolean` | A [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean).                             |
+|                  `welchan [channel]` | Sets a welcome channel, the channel set is where the embed will send when a member joins                             |
 | `float` , `num` , `number` | A [Floating Point Number](https://en.wikipedia.org/wiki/Floating-point_arithmetic).                                                |
 |          `int` , `integer` | An [Integer](https://en.wikipedia.org/wiki/Integer).                                                                               |
 | `reg` , `regex` , `regexp` | A [Regular Expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp).                   |

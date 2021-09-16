@@ -2,9 +2,9 @@
 | -------------------------: | ---------------------------------------------------------------------------------------------------------------------------------- |
 |                  `welcmsg [msg]` | Sets a welcome message that goes into an embed, for when a member joins                                                          |
 |                  `welchan [channel]` | Sets a welcome channel, the channel set is where the embed will send when a member joins                             |
-| `float` , `num` , `number` | A [Floating Point Number](https://en.wikipedia.org/wiki/Floating-point_arithmetic).                                                |
-|          `int` , `integer` | An [Integer](https://en.wikipedia.org/wiki/Integer).                                                                               |
-| `reg` , `regex` , `regexp` | A [Regular Expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp).                   |
+| `welcfooter [msg]` | Sets a welcome footer, that goes into an embed, for when a member joins                                            |
+|          `ping` | Displays the bots latency                                                                                |
+| `membercount` or `mc` | Displays how many total Members, and Bots there are in the server                    |
 |           `str` , `string` | A [String](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String).                                  |
 |                      `url` | A [URL](https://en.wikipedia.org/wiki/URL).                                                                                        |
 |                  `channel` | A [TextChannel](https://discord.js.org/#/docs/main/master/class/TextChannel) instance returned from the channel ID or channel tag. |

@@ -9,6 +9,4 @@
 |                      `support` | Displays the bots support server, a button will be attached to the embed with the link                                                                                        |
 |                  `av [member]` or `av` | Displays a you or the members profile picture |
 |                    `ban [member] [reason]` | Bans the member from the guild, provided with a reason                              |
-|          
-|                     `role [member] [role]` | Gives the member a the role you want to provide them, ping the role or spell out its name                      |
-|                                                                                           |
+|          `role [member] [role]` | Gives the member a the role you want to provide them, ping the role or spell out its name                      |                                                                                      
